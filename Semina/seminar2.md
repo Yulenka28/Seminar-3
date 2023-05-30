@@ -66,3 +66,11 @@ git commit -m "text"
 ![Здесь было фото чего-то](https://images.unsplash.com/photo-1685384889967-2c205a1148a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80)
 
 Если свое фото- то указываем название и его расширение в ( ) 
+
+**Если мы хотим добавить изображене ссылкой, то нашу конструкцию можно сделать такой:**
+
+```
+![[альтернативный текст(ссылка)]](ссылка на другую картинку, наш перевертыш)
+```
+
+[![фото васи и пети, нажми и получишь бонус](https://img1.akspic.ru/previews/1/4/5/2/7/172541/172541-zemlya-luna-planeta-noch-atmosfera-500x.jpg)(https://fikiwiki.com/uploads/posts/2022-02/1644984017_1-fikiwiki-com-p-kartinki-zhivotnikh-na-avu-1.jpg)
