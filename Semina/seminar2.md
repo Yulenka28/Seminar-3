@@ -41,9 +41,13 @@ git commit -m "text"
 
 
 ## Заголовки
-
-
-
+Для создания заголовков используй знак (#)
+# First level
+## Second level
+### Third level 
+#### Forth level
+##### Fifth level
+###### Last level
 
 ## Исходный код
 
@@ -57,6 +61,6 @@ git commit -m "text"
 
 
 
-## Изображения
+## Картинка
 
 
